@@ -38,6 +38,10 @@ legend("data","data & err","fit")
 
 %% esp0
 
+ciao
+pippo
+ogywerwrpo
+
 
 
 
