@@ -17,13 +17,7 @@ y2 = data2(1:20,2);
 dx2 = data2(1:20,3);
 dy2 = data2(1:20,4);
 
-figure();
-plot(x2,y2,'LineStyle','none','Marker','o','MarkerSize',4,'LineWidth',2);
-hold on
-errorbar(x2,y2,dy2,'o','MarkerSize',2,'MarkerEdgeColor','r','MarkerFaceColor','r','Color','r');
-xlabel("V [V]");
-ylabel("i [mA]");
-title("Title");
+gino e pino
 
 grid on;
 
@@ -45,6 +39,7 @@ ogywerwrpo
 
 
 
+fatto :)
 
 
 
