@@ -17,7 +17,7 @@ y2 = data2(1:20,2);
 dx2 = data2(1:20,3);
 dy2 = data2(1:20,4);
 
-gino
+gino e pino
 
 grid on;
 
@@ -39,7 +39,7 @@ ogywerwrpo
 
 
 
-
+fatto :)
 
 
 
